@@ -11,4 +11,6 @@ void main(int argc, char** argv)
     printf("[%s]\n",argv[i]);
   }
 
+  printf("Just spat out [%d] things.\n",argc);
+
 }
